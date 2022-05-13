@@ -1,0 +1,6 @@
+framework module Pods_SwiftParsing_SwiftParsingUITests {
+  umbrella header "Pods-SwiftParsing-SwiftParsingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

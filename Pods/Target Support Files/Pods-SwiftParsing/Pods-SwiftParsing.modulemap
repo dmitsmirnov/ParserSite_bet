@@ -1,0 +1,6 @@
+framework module Pods_SwiftParsing {
+  umbrella header "Pods-SwiftParsing-umbrella.h"
+
+  export *
+  module * { export * }
+}
